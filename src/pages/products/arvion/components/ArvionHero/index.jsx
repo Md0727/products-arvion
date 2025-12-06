@@ -52,7 +52,7 @@ export function ArvionHero() {
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 1, ease: "easeOut", delay: 0.3 }}
           viewport={{ once: false, amount: 0.4 }}
-          className="text-white font-rotoris text-[18px] sm:text-[20px] tracking-tight mt-4 max-w-md leading-none mb-10 md:mb-14"
+          className="text-white font-rotoris text-[18px] sm:text-[20px] text-center tracking-tight mt-4 max-w-md leading-none mb-10 md:mb-14"
         >
           For those who value clarity over complexity
         </motion.p>
